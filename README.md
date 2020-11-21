@@ -3,7 +3,7 @@
 ## Demo 📸
 
 <div align="center" >
-  <img src="./github/GifHappy.gif" alt="demo-web" height="425">
+  <img src="./github/Happy web.jpg" alt="demo-web" height="425">
 </div>
 
 ---
